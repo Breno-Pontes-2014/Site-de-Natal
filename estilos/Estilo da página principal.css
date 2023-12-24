@@ -1,4 +1,4 @@
 @charset "UTF-8";
 body{
-    background: "imagens/Imagem para o fundo do site.jpg";
+    background-image: url("..imagens/Imagem para o fundo do site.jpg");
 }
