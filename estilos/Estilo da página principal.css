@@ -13,17 +13,17 @@ img{
     width: 500px;
     height: 500px;
 }
-footer > a{
+a{
     border-radius: 5px;
     text-decoration: none;
     color: white;
     background-color: lightgray;
 }
-footer > a :hover{
+a:hover{
     color: greenyellow;
     background-color: goldenrod;
 }
-footer > a:active{
+a:active{
     background-color: black;
     color: red;
 }
