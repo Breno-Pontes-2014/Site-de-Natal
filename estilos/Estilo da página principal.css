@@ -12,5 +12,18 @@ img{
     border-width: 2px;
     width: 500px;
     height: 500px;
-
+}
+footer > a{
+    border-radius: 5px;
+    text-decoration: none;
+    color: white;
+    background-color: lightgray;
+}
+footer > a :hover{
+    color: greenyellow;
+    background-color: goldenrod;
+}
+footer > a:active{
+    background-color: black;
+    color: red;
 }
