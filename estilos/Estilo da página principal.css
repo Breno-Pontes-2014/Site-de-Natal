@@ -1,8 +1,10 @@
 @charset "UTF-8";
 body{
+    text-align: center;
     background-image: url("../imagens/Imagem para o fundo do site.jpg");
     background-repeat: none;
     font-family: Arial, Helvetica, sans-serif;
+    color: white;
 }
 img{
     border-radius: 5px;
@@ -10,4 +12,5 @@ img{
     border-width: 2px;
     width: 500px;
     height: 500px;
+
 }
