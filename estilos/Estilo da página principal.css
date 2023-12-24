@@ -1,4 +1,11 @@
 @charset "UTF-8";
 body{
-    background-image: url("..imagens/Imagem para o fundo do site.jpg");
+    background-image: url("../imagens/Imagem para o fundo do site.jpg");
+    background-repeat: none;
+    font-family: Arial, Helvetica, sans-serif;
+}
+img{
+    border-radius: 5px;
+    border-color: rgba(0, 0, 0, 0.519);
+    border-width: 2px;
 }
